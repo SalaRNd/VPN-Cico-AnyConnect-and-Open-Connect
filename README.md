@@ -30,10 +30,10 @@
 
 <pre>./oc.sh</pre>
 
-</h23>افزودن یوزر به VPN:</h3>
+</h3>افزودن یوزر به VPN:</h3>
 
 <pre>sudo ocpasswd -c /etc/ocserv/ocpasswd username</pre>
 
-<h3>برای اعمال تغییرات از کد زیر استفاده کنید</h3> 
+<h3>:برای اعمال تغییرات از کد زیر استفاده کنید</h3> 
 
 <pre>nano /etc/ocserv/ocserv.conf</pre>
