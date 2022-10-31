@@ -10,7 +10,7 @@
 
  نرم افزار <a href="https://uploadb.me/direct/cjlbd3c6vuwm/CC_%208.0l.rar.html" target="_blank"> PUTTY </a> را دانلود کنید.
 
-نرم افزار <a href="https://uploadb.me/direct/yprmehaqebgp/cisco-anyconnect.rar.html" target="_blank"> CutFtp Pro </a> را دانلود کنید.
+نرم افزار <a href="https://uploadb.me/direct/yprmehaqebgp/cis co-anyconnect.rar.html" target="_blank"> CuteFtp Pro </a> را دانلود کنید.
 
  برای اتصال به VPN با استفاده از گوشی های اندرویدی نیاز به دانلود اپلیکیشن <a href="https://uploadb.me/direct/moe8bmhz3weo/OpenConnect.rar.html" target="_blank"> OpenConnect </a> دارید.
 
