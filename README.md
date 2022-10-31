@@ -30,11 +30,22 @@
 
 <pre>./oc.sh</pre>
 
-<h3>افزودن یوزر به VPN:</h3>
+<h4>برای اعمال تغییرات از کد زیر استفاده کنید:</h4> 
 
+<pre>nano /etc/ocserv/ocserv.conf</pre>
+
+<h4>اد کردن یوزر و تغییر دادن پسورد یوزر:</h4>
 
 <pre>sudo ocpasswd -c /etc/ocserv/ocpasswd username</pre>
 
-<h3>برای اعمال تغییرات از کد زیر استفاده کنید:</h3> 
+<h4>بلاک یا غیر فعال کردن یوزر</h4>
 
-<pre>nano /etc/ocserv/ocserv.conf</pre>
+<pre>sudo ocpasswd -c /etc/ocserv/ocpasswd -l username</pre>
+
+<h4>انبلاک یا فعال کردن یوزر</h4>
+
+<pre>sudo ocpasswd -c /etc/ocserv/ocpasswd -u username</pre>
+
+<h4>حذف یوزر</h4>
+
+<pre>sudo ocpasswd -c /etc/ocserv/ocpasswd -d username</pre>
