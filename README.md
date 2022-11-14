@@ -16,6 +16,7 @@
 
 برای اتصال به VPN با استفاده در محیط ویندوز نیاز به دانلود نرم افزار <a href="https://uploadb.me/direct/yprmehaqebgp/cisco-anyconnect.rar.html" target="_blank"> cisco-anyconnect </a> دارید.
 
+بهتر هست این ویدیو را در <a href="https://youtu.be/j6MhE95zx2Q" target="_blank"> Youtube </a> نگاه کنید.
 <h2>مراحل نصب VPN</h2>
 
 <pre>yum install net-tools epel-release radcli bzip2 wget -y</pre>
